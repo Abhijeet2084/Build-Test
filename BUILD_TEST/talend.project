@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
   <TalendProperties:Project xmi:id="_4p9zkWS8EeiPD8gEmRN_5g" label="Build-Test" description="svn2git" language="java" technicalLabel="BUILD_TEST" creationDate="2018-05-25T13:42:34.000+0530" author="_4p9zkmS8EeiPD8gEmRN_5g" productVersion="Talend Data Fabric-6.3.1.20161216_1026" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Abhijeet2084/Build-Test.git&quot;,&quot;login&quot;:&quot;Abhijeet2084&quot;,&quot;passwd&quot;:&quot;zuvVLKQsPBc=&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM">
+    <technicalStatus xmi:id="_-yMWEGS8EeiPD8gEmRN_5g" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_-yMWEWS8EeiPD8gEmRN_5g" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_-yMWEmS8EeiPD8gEmRN_5g" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_-w5VkGS8EeiPD8gEmRN_5g" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_-w5VkWS8EeiPD8gEmRN_5g" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_-w5VkmS8EeiPD8gEmRN_5g" label="validated" code="VAL"/>
     <migrationTask xmi:id="_-p-OMGS8EeiPD8gEmRN_5g" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_-p-OMWS8EeiPD8gEmRN_5g" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_-p-OMmS8EeiPD8gEmRN_5g" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
@@ -24,4 +30,7 @@
     <migrationTask xmi:id="_-p-1Q2S8EeiPD8gEmRN_5g" id="org.talend.repository.model.migration.ChangeMappingFileMigrationTask" breaks="6.2.1" version="6.2.2" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_4p9zkmS8EeiPD8gEmRN_5g" login="admin@tui.com" firstName="admin" lastName="admin" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_-0HosGS8EeiPD8gEmRN_5g" login="bo-qa@tui.com" firstName="BO" lastName="QA" type="MDM" additionnalData="{}">
+    <projectAuthorization href="../D:/Program%20Files%20(x86)/Talend-Studio/studio/#/2"/>
+  </TalendProperties:User>
 </xmi:XMI>
