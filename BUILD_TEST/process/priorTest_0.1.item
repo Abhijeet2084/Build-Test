@@ -112,7 +112,7 @@
     <routinesParameter id="__cug0GS8EeiPD8gEmRN_5g" name="TalendDate"/>
     <routinesParameter id="__dBbwGS8EeiPD8gEmRN_5g" name="TalendString"/>
   </parameters>
-  <node componentName="tMsgBox" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="320" posY="224">
+  <node componentName="tMsgBox" componentVersion="0.101" offsetLabelX="-12" offsetLabelY="-5" posX="320" posY="224">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tMsgBox_1" show="false"/>
     <elementParameter field="TEXT" name="TITLE" value="&quot;Talend Open Studio &quot;"/>
     <elementParameter field="CLOSED_LIST" name="BUTTONS" value="0"/>
