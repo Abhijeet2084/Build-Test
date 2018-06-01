@@ -2401,6 +2401,19 @@
       <relatedItems xmi:id="_AlUqzWWNEei8Kb9iQWJyBg" id="TalendDate" version="Latest" type="routine"/>
       <relatedItems xmi:id="_AlUqzmWNEei8Kb9iQWJyBg" id="Mathematical" version="Latest" type="routine"/>
     </ItemsRelations>
+    <ItemsRelations xmi:id="_rpksEGWQEei8Kb9iQWJyBg">
+      <baseItem xmi:id="_rpksEWWQEei8Kb9iQWJyBg" id="_rpcJMGWQEei8Kb9iQWJyBg" version="0.1" type="job"/>
+      <relatedItems xmi:id="_rpksEmWQEei8Kb9iQWJyBg" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_rpksE2WQEei8Kb9iQWJyBg" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_rpksFGWQEei8Kb9iQWJyBg" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_rpksFWWQEei8Kb9iQWJyBg" id="DemoRoutines" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_rpksFmWQEei8Kb9iQWJyBg" id="GetRandomPhoneNum" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_rpksF2WQEei8Kb9iQWJyBg" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_rpksGGWQEei8Kb9iQWJyBg" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_rpksGWWQEei8Kb9iQWJyBg" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_rpksGmWQEei8Kb9iQWJyBg" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_rpksG2WQEei8Kb9iQWJyBg" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask href="#_-p-OMGS8EeiPD8gEmRN_5g"/>
     <migrationTask href="#_-p-OMWS8EeiPD8gEmRN_5g"/>
     <migrationTask href="#_-p-OMmS8EeiPD8gEmRN_5g"/>
