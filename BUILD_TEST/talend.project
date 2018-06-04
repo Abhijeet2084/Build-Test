@@ -3591,6 +3591,26 @@
       <relatedItems xmi:id="_PCUksGWREei8Kb9iQWJyBg" id="DataQualityDependencies" version="Latest" type="routine"/>
       <relatedItems xmi:id="_PCUksWWREei8Kb9iQWJyBg" id="MDM" version="Latest" type="routine"/>
     </ItemsRelations>
+    <ItemsRelations xmi:id="_ZIfJkGfMEeiCwrqYPMU36A">
+      <baseItem xmi:id="_ZIfJkWfMEeiCwrqYPMU36A" id="_rpcJMGWQEei8Kb9iQWJyBg" version="0.2" type="job"/>
+      <relatedItems xmi:id="_ZIfJkmfMEeiCwrqYPMU36A" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ZIfJk2fMEeiCwrqYPMU36A" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ZIfJlGfMEeiCwrqYPMU36A" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ZIfJlWfMEeiCwrqYPMU36A" id="DataMasking" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ZIfJlmfMEeiCwrqYPMU36A" id="DemoRoutines" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ZIfJl2fMEeiCwrqYPMU36A" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ZIfJmGfMEeiCwrqYPMU36A" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ZIfJmWfMEeiCwrqYPMU36A" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ZIfJmmfMEeiCwrqYPMU36A" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ZIfJm2fMEeiCwrqYPMU36A" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ZIfJnGfMEeiCwrqYPMU36A" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ZIfJnWfMEeiCwrqYPMU36A" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ZIfJnmfMEeiCwrqYPMU36A" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ZIfJn2fMEeiCwrqYPMU36A" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ZIfJoGfMEeiCwrqYPMU36A" id="GetRandomPhoneNum" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ZIfJoWfMEeiCwrqYPMU36A" id="DataQualityDependencies" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ZIfJomfMEeiCwrqYPMU36A" id="MDM" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask href="#_-p-OMGS8EeiPD8gEmRN_5g"/>
     <migrationTask href="#_-p-OMWS8EeiPD8gEmRN_5g"/>
     <migrationTask href="#_-p-OMmS8EeiPD8gEmRN_5g"/>
